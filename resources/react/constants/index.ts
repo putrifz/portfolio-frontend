@@ -12,8 +12,6 @@ import {
   backend,
   creator,
   web,
-  javascript,
-  typescript,
   html,
   css,
   reactjs,
@@ -51,19 +49,19 @@ export const navLinks: TNavLink[] = [
 
 const services: TService[] = [
   {
-    title: "Web Developer",
+    title: "Junior Web Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Frontend Developer (React)",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Backend Developer (Laravel & PHP)",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Database Management (MySQL)",
     icon: creator,
   },
 ];
@@ -77,14 +75,7 @@ const technologies: TTechnology[] = [
     name: "CSS 3",
     icon: css,
   },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
+  
   {
     name: "React JS",
     icon: reactjs,
@@ -225,7 +216,7 @@ const projects: TProject[] = [
       },
     ],
     image: carrent,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/barudak-developer-EVOS/FE-VideoEdukasi",
   },
   {
     name: "Job IT",
@@ -246,7 +237,7 @@ const projects: TProject[] = [
       },
     ],
     image: jobit,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/putrifz/CRUD-KEPEGAWAIAN",
   },
   {
     name: "Trip Guide",
