@@ -1,0 +1,205 @@
+{
+  "navLinks":  [
+    {
+      "id": "about",
+      "title": "About"
+    },
+    {
+      "id": "work",
+      "title": "Work"
+    },
+    {
+      "id": "contact",
+      "title": "Contact"
+    }
+  ],
+  "services": [
+    {
+      "title": "Junior Web Developer"
+    },
+    {
+      "title": "Frontend Developer (React & Vite)"
+    },
+    {
+      "title": "Backend Developer (Laravel & PHP)"
+    },
+    {
+      "title": "Database Management (MySQL)"
+    }    
+  ],
+
+  "project": [
+    {
+      "name": "Eduvid - Video Learning Web",
+      "description":
+        "Platform pembelajaran online berbasis video yang dibuat menggunakan React.js untuk frontend dan Laravel untuk backend. Fitur utama meliputi unggah dan pemutar video, autentikasi pengguna, serta pengelolaan konten.",
+      "tags": [
+        {
+          "name": "react",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "laravel",
+          "color": "red-text-gradient"
+        },
+        {
+          "name": "mysql",
+          "color": "green-text-gradient"
+        }
+      ],
+      "sourceCodeLink": "https://github.com/barudak-developer-EVOS/FE-VideoEdukasi"
+    },
+    {
+      "name": "Sistem Manajemen Karyawan",
+      "description":
+        "Aplikasi web berbasis Laravel untuk mengelola data kepegawaian seperti pegawai, jabatan, dan gaji. Sistem mendukung login multi-role dan CRUD data dengan relasi antar tabel.",
+      "tags": [
+        {
+          "name": "laravel",
+          "color": "red-text-gradient"
+        },
+        {
+          "name": "mysql",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "blade",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "sourceCodeLink": "https://github.com/putrifz/CRUD-KEPEGAWAIAN"
+    },
+    {
+      "name": "Portofolio Pribadi",
+      "description":
+        "Website portofolio yang menampilkan pengalaman dan proyek saya sebagai pengembang junior. Dibangun dengan React dan Tailwind di frontend serta Laravel sebagai backend API.",
+      "tags": [
+        {
+          "name": "react",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "tailwind",
+          "color": "pink-text-gradient"
+        },
+        {
+          "name": "laravel",
+          "color": "red-text-gradient"
+        }
+      ],
+      "sourceCodeLink": "https://github.com/username/portofolio"
+    }
+  ],
+  
+  "experiences": [
+    {
+      "title": "Backend Developer",
+      "companyName": "Sistem Manajemen Karyawan (Tugas Kuliah)",
+      "icon": "backend",
+      "iconBg": "#383E56",
+      "date": "2023",
+      "points": [
+        "Membangun aplikasi web untuk manajemen data karyawan menggunakan Laravel dan MySQL.",
+        "Mengimplementasikan CRUD (Create, Read, Update, Delete) untuk pegawai, jabatan, dan gaji.",
+        "Membuat fitur autentikasi login dan pembatasan akses berdasarkan role (admin & pegawai).",
+        "Mengatur relasi antar tabel menggunakan Eloquent ORM Laravel.",
+        "Mengelola validasi form dan routing secara efisien di sisi backend."
+      ]
+    },
+    {
+      "title": "Fullstack Developer",
+      "companyName": "Proyek Eduvid (Tugas Kuliah)",
+      "icon": "project",
+      "iconBg": "#E6DEDD",
+      "date": "2024",
+      "points": [
+        "Membangun platform pembelajaran online berbasis video menggunakan React.js untuk frontend dan Laravel untuk backend.",
+        "Membuat fitur unggah dan pemutar video dengan antarmuka responsif.",
+        "Mengimplementasikan autentikasi pengguna dan hak akses dengan Laravel.",
+        "Mengelola data pengguna dan video melalui database MySQL.",
+        "Menggunakan GitHub sebagai version control selama pengembangan."
+      ]
+    },
+    {
+      "title": "Frontend Developer",
+      "companyName": "Projek Kolaborasi Mahasiswa",
+      "icon": "frontend",
+      "iconBg": "#E6DEDD",
+      "date": "Mar 2024 - May 2024",
+      "points": [
+        "Berperan sebagai frontend developer dalam tim kecil untuk membuat aplikasi e-learning.",
+        "Menggunakan React untuk tampilan responsif.",
+        "Berkomunikasi melalui GitHub dan Google Meet untuk pembagian tugas."
+      ]
+    },
+    {
+      "title": "Junior Web Developer",
+      "companyName": "Projek Pribadi",
+      "icon": "laptop",
+      "iconBg": "#E6DEDD",
+      "date": "Jan 2025 - Present",
+      "points": [
+        "Membuat website portofolio menggunakan React, Tailwind CSS, dan Vite.",
+        "Menambahkan animasi interaktif dengan Framer Motion.",
+        "Mengintegrasikan Laravel di backend untuk API dan manajemen data.",
+        "Menggunakan Git dan GitHub untuk version control."
+      ]
+    }
+  ],
+  "html": {
+    "title": "Putri Nur Fauziah",
+    "fullName": "Putri Nur Fauziah",
+    "email": "putrifauziah358@gmail.com"
+  },
+  "hero": {
+    "introduction": "Hi I'm", 
+    "name": "Putri",
+    "p": [
+      "Junior Developer with hands-on experience in",
+      "React, Laravel, and modern web development."
+    ]
+    
+  },
+  "contact": {
+    "p": "Get in touch",
+    "h2": "Contact.",
+    "form": {
+      "name": {
+        "span": "Your Name",
+        "placeholder": "What's your name?"
+      },
+      "email": {
+        "span": "Your Email",
+        "placeholder": "What's your email?"
+      },
+      "message": {
+        "span": "Your Message",
+        "placeholder": "What do you want to say?"
+      }
+    }
+  },
+  "sections": {
+    "about": {
+      "p": "Introduction",
+      "h2": "Overview",
+      "content": "I'm an Informatics Engineering student with a strong interest in web development. I've built several projects using React.js and Laravel, such as an online video learning platform and an employee management system. I enjoy learning new technologies and always aim to create responsive, efficient, and user-friendly web applications."
+    },    
+    "experience": {
+      "p": "My learning journey",
+      "h2": "Project & Development Experience"
+    },    
+    "works": {
+      "p": "My projects",
+      "h2": "Portfolio Projects",
+      "content": "These projects highlight my skills and experience through academic and personal development work. Each project includes a short description and the technologies used. They reflect my passion for building web applications using React, Laravel, and modern tools."
+    }    
+  },
+  "alerts":{
+    "success":"Thank you. I will get back to you as soon as possible.",
+    "failure":"Something went wrong."
+  },
+  "loading":{
+    "sending":"Sending...",
+    "send":"Send"
+  }
+}

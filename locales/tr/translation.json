@@ -1,0 +1,225 @@
+{
+  "navLinks": [
+    {
+      "id": "about",
+      "title": "Hakkında"
+    },
+    {
+      "id": "work",
+      "title": "İş"
+    },
+    {
+      "id": "contact",
+      "title": "İletişim"
+    }
+  ],
+  "services": [
+    {
+      "title": "Web Geliştirici"
+    },
+    {
+      "title": "React Native Geliştirici"
+    },
+    {
+      "title": "Backend Geliştirici"
+    },
+    {
+      "title": "İçerik Oluşturucu"
+    }
+  ],
+  "testimonials": [
+    {
+      "testimonial": "Web sitemizin ürünümüz kadar güzel olabileceğini düşünmemiştim, ama Rick beni yanılttı.",
+      "name": "Sara Lee",
+      "designation": "CFO",
+      "company": "Acme Co",
+      "image": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "testimonial": "Rick gibi müşterilerinin başarısını gerçekten önemseyen bir web geliştiriciyle daha önce hiç tanışmamıştım.",
+      "name": "Chris Brown",
+      "designation": "COO",
+      "company": "DEF Corp",
+      "image": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "testimonial": "Rick web sitemizi optimize ettikten sonra trafik %50 arttı. Kendilerine yeterince teşekkür edemeyiz!",
+      "name": "Lisa Wang",
+      "designation": "CTO",
+      "company": "456 Enterprises",
+      "image": "https://randomuser.me/api/portraits/women/6.jpg"
+    }
+  ],
+  "project": [
+    {
+      "name": "Araç Kiralama",
+      "description": "Kullanıcılara çeşitli sağlayıcılardan araç kiralama arama, rezervasyon ve yönetme olanağı sunan web tabanlı bir platform. Taşıma ihtiyaçları için pratik ve verimli bir çözüm.",
+      "tags": [
+        {
+          "name": "react",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "mongodb",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "tailwind",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "sourceCodeLink": "https:://github.com/"
+    },
+    {
+      "name": "İş İT",
+      "description": "Kullanıcılara iş açıkları arama, pozisyonlar için tahmini maaş aralıklarını görüntüleme ve mevcut konumlarına göre iş bulma olanağı sağlayan web uygulaması.",
+      "tags": [
+        {
+          "name": "react",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "restapi",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "scss",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "sourceCodeLink": "https:://github.com/"
+    },
+    {
+      "name": "Seyahat Rehberi",
+      "description": "Kullanıcılara uçuş, otel ve kiralık araçlar için rezervasyon yapma olanağı tanıyan kapsamlı bir seyahat rezervasyon platformu. Popüler destinasyonlar için öneriler sunar.",
+      "tags": [
+        {
+          "name": "nextjs",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "supabase",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "css",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "sourceCodeLink": "https:://github.com/"
+    }
+  ],
+  "experiences": [
+    {
+      "title": "React.js Geliştirici",
+      "companyName": "Starbucks",
+      "icon": "starbucks",
+      "iconBg": "#383E56",
+      "date": "Mart 2020 - Nisan 2021",
+      "points": [
+        "React.js ve diğer ilgili teknolojileri kullanarak web uygulamalarını geliştirme ve sürdürme.",
+        "Tasarımcılar, ürün yöneticileri ve diğer geliştiricilerle işbirliği yaparak yüksek kaliteli ürünler oluşturma.",
+        "Duyarlı tasarım uygulama ve tarayıcı uyumluluğunu sağlama.",
+        "Diğer geliştiricilere yapıcı geri bildirimlerde bulunma ve kod incelemelerine katılma."
+      ]
+    },
+    {
+      "title": "React Native Geliştirici",
+      "companyName": "Tesla",
+      "icon": "tesla",
+      "iconBg": "#E6DEDD",
+      "date": "Ocak 2021 - Şubat 2022",
+      "points": [
+        "React.js ve diğer ilgili teknolojileri kullanarak web uygulamalarını geliştirme ve sürdürme.",
+        "Tasarımcılar, ürün yöneticileri ve diğer geliştiricilerle işbirliği yaparak yüksek kaliteli ürünler oluşturma.",
+        "Duyarlı tasarım uygulama ve tarayıcı uyumluluğunu sağlama.",
+        "Diğer geliştiricilere yapıcı geri bildirimlerde bulunma ve kod incelemelerine katılma."
+      ]
+    },
+    {
+      "title": "Web Geliştirici",
+      "companyName": "Shopify",
+      "icon": "shopify",
+      "iconBg": "#383E56",
+      "date": "Ocak 2022 - Ocak 2023",
+      "points": [
+        "React.js ve diğer ilgili teknolojileri kullanarak web uygulamalarını geliştirme ve sürdürme.",
+        "Tasarımcılar, ürün yöneticileri ve diğer geliştiricilerle işbirliği yaparak yüksek kaliteli ürünler oluşturma.",
+        "Duyarlı tasarım uygulama ve tarayıcı uyumluluğunu sağlama.",
+        "Diğer geliştiricilere yapıcı geri bildirimlerde bulunma ve kod incelemelerine katılma."
+      ]
+    },
+    {
+      "title": "Full Stack Geliştirici",
+      "companyName": "Meta",
+      "icon": "meta",
+      "iconBg": "#E6DEDD",
+      "date": "Ocak 2023 - Günümüz",
+      "points": [
+        "React.js ve diğer ilgili teknolojileri kullanarak web uygulamalarını geliştirme ve sürdürme.",
+        "Tasarımcılar, ürün yöneticileri ve diğer geliştiricilerle işbirliği yaparak yüksek kaliteli ürünler oluşturma.",
+        "Duyarlı tasarım uygulama ve tarayıcı uyumluluğunu sağlama.",
+        "Diğer geliştiricilere yapıcı geri bildirimlerde bulunma ve kod incelemelerine katılma."
+      ]
+    }
+  ],
+  "html": {
+    "title": "Emir Baycan",
+    "fullName": "Emir Baycan",
+    "email": "emir-baycan@hotmail.com"
+  },
+  "hero": {
+    "introduction": "Merhaba, benim adım",
+    "name": "Emir Baycan",
+    "p": [
+      "3D görseller, kullanıcı",
+      "arayüzleri ve web uygulamaları geliştiriyorum."
+    ]
+  },
+  "contact": {
+    "p": "İletişime geç",
+    "h2": "İletişim.",
+    "form": {
+      "name": {
+        "span": "Adınız",
+        "placeholder": "Adınız nedir?"
+      },
+      "email": {
+        "span": "E-posta Adresiniz",
+        "placeholder": "E-posta adresiniz nedir?"
+      },
+      "message": {
+        "span": "Mesajınız",
+        "placeholder": "Ne söylemek istersiniz?"
+      }
+    }
+  },
+  "sections": {
+    "about": {
+      "p": "Tanıtım",
+      "h2": "Genel Bakış.",
+      "content": "TypeScript ve JavaScript konusunda deneyimli bir yazılım geliştiriciyim ve React, Node.js ve Three.js gibi çerçevelerde uzmanlığa sahibim. Hızlı öğrenen birisiyim ve müşterilerle yakın işbirliği yaparak gerçek dünya problemlerine çözüm getiren verimli, ölçeklenebilir ve kullanıcı dostu çözümler oluşturuyorum. Fikirlerinizi hayata geçirmek için birlikte çalışalım!"
+    },
+    "experience": {
+      "p": "Şimdiye kadar neler yaptım",
+      "h2": "İş Deneyimi."
+    },
+    "feedbacks": {
+      "p": "Diğerleri ne diyor",
+      "h2": "Referanslar."
+    },
+    "works": {
+      "p": "Çalışmalarım",
+      "h2": "Projeler.",
+      "content": "Aşağıdaki projeler, çalışma becerilerimi ve deneyimimi gerçek dünya örnekleri üzerinden sergiliyor. Her proje, kod depolarına ve canlı demo bağlantılarına sahip kısa açıklamalarla sunulmuştur. Karmaşık problemleri çözme yeteneğimi, farklı teknolojilerle çalışabilme yeteneğimi ve projeleri etkili bir şekilde yönetme yeteneğimi yansıtmaktadır."
+    }
+  },
+  "alerts": {
+    "success": "Teşekkür ederim. En kısa sürede size döneceğim.",
+    "failure": "Bir şeyler yanlış gitti."
+  },
+  "loading": {
+    "sending": "Gönderiliyor...",
+    "send": "Gönder"
+  }
+}
